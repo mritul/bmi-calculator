@@ -5,7 +5,7 @@
   <li> Displays the BMI with status
   <li> Responsive
 
-Check it out by clicking [here](https://nostalgic-swartz-fcd410.netlify.app/)
+Check it out by clicking [here](https://agitated-kepler-09b066.netlify.app/)
 
 <br>
 <br>

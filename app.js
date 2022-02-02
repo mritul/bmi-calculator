@@ -29,6 +29,9 @@ function calculate(e) {
     statusval.textContent = "Overweight";
     statusval.style.color = "#FFA500";
     bmival.style.color = "#FFA500";
+  } else if (heightInput.value == "" || weightInput.value == "") {
+    statusval.textContent = "-";
+    bmival.textContent = "-";
   } else {
     statusval.textContent = "Obese";
     statusval.style.color = "red";
