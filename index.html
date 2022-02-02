@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Check your BMI right away</h1>
+    </header>
+    <section class="formContainer">
+      <form>
+        <div>
+          <label>Height:</label>
+          <input
+            type="number"
+            id="heightInput"
+            placeholder="Enter height in cm"
+          />
+        </div>
+        <div>
+          <label>Weight:</label>
+          <input
+            type="number"
+            id="weightInput"
+            placeholder="Enter weight in kgs"
+          />
+        </div>
+        <div class="btnHolder">
+          <button class="submitBtn">Check BMI</button>
+        </div>
+        <div class="bmiContainer">
+          <p class="bmiTitle">Your BMI is <span class="bmival">-</span></p>
+        </div>
+        <div class="statusContainer">
+          <p class="statusTitle">Status: <span class="statusval">-</span></p>
+        </div>
+      </form>
+    </section>
+    <footer>
+      <h1>
+        Designed and Developed by
+        <a href="https://github.com/mritul" target="_blank">Mritul</a>
+      </h1>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
