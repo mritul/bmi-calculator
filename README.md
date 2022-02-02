@@ -11,7 +11,7 @@ Check it out by clicking [here](https://agitated-kepler-09b066.netlify.app/)
 <br>
 <br>
 
-<em>Mobile View
+<em>Mobile View:
 
 ![mobile](screenshots/ss1.png)
 
@@ -19,6 +19,6 @@ Check it out by clicking [here](https://agitated-kepler-09b066.netlify.app/)
 <br>
 <br>
 
-<em>Desktop view
+<em>Desktop view:
 
 ![desktop](screenshots/ss2.png)
